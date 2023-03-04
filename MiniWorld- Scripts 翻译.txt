@@ -1,0 +1,20 @@
+葡萄牙语 → 中文
+Aplicar buff → 使用增益
+Gerar e Criar Matriz de blocos → 创建生成方块矩阵
+Mochila-Baú do Fim → 结束背包
+encantamentos → 附魔
+
+含英词的葡语
+Scripts criados com api do jogo mini world
+ → 中文
+ → 用迷你世界游戏接口建的脚本
+
+英语 → 中文
+Light_source → 光源
+Portal-Gun → 传送枪
+ShotGun → 霰弹枪
+generate_chunks → 生成区块
+MiniWorld-Scripts → 迷你世界脚本
+
+葡式英语 → 英语 → 中文
+LukyBlovk → Lucky Block → 幸运方块
